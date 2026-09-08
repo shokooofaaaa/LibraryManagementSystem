@@ -18,3 +18,4 @@ D:\c#\cs intership\projects\LibraryManagementSystem\LibraryManagementSystem\obj\
 D:\c#\cs intership\projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0-windows\LibraryManagementSystem.pdb
 D:\c#\cs intership\projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0-windows\LibraryManagementSystem.genruntimeconfig.cache
 D:\c#\cs intership\projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0-windows\ref\LibraryManagementSystem.dll
+D:\c#\cs intership\projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0-windows\LibraryManagementSystem.sourcelink.json

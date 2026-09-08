@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\c#\\cs intership\\projects\\LibraryManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94233A7E-33AC-4180-B7D4-FD7921A3A4E6}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\c#\\cs intership\\projects\\librarymanagementsystem\\librarymanagementsystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94233A7E-33AC-4180-B7D4-FD7921A3A4E6}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{94233A7E-33AC-4180-B7D4-FD7921A3A4E6}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\c#\\cs intership\\projects\\librarymanagementsystem\\librarymanagementsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94233A7E-33AC-4180-B7D4-FD7921A3A4E6}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94233A7E-33AC-4180-B7D4-FD7921A3A4E6}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\c#\\cs intership\\projects\\librarymanagementsystem\\librarymanagementsystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94233A7E-33AC-4180-B7D4-FD7921A3A4E6}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94233A7E-33AC-4180-B7D4-FD7921A3A4E6}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\c#\\cs intership\\projects\\librarymanagementsystem\\librarymanagementsystem\\models\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,6 +55,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
@@ -70,13 +74,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Library.cs",
               "DocumentMoniker": "D:\\c#\\cs intership\\projects\\LibraryManagementSystem\\LibraryManagementSystem\\Library.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\Library.cs",
               "ToolTip": "D:\\c#\\cs intership\\projects\\LibraryManagementSystem\\LibraryManagementSystem\\Library.cs",
               "RelativeToolTip": "LibraryManagementSystem\\Library.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-05T13:13:56.354Z",
               "EditorCaption": ""
@@ -142,20 +146,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\c#\\cs intership\\projects\\LibraryManagementSystem\\LibraryManagementSystem\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\MainWindow.xaml.cs",
               "ToolTip": "D:\\c#\\cs intership\\projects\\LibraryManagementSystem\\LibraryManagementSystem\\MainWindow.xaml.cs",
               "RelativeToolTip": "LibraryManagementSystem\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAA5wEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-04T12:24:40.393Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }
