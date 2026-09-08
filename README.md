@@ -1,3 +1,7 @@
+## Screenshot
+
+![Library Management System](images/Screenshot.png)
+
 # Library Management System
 
 A simple Library Management System built with C# and WPF.
